@@ -1,6 +1,0 @@
-streamlit
-scikit-learn
-distance
-beautifulsoup4
-fuzzywuzzy
-nltk
